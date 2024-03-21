@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-portfolio/",
+    "build": "vite build --base=/js_68_Necrotic999/",
     "preview": "vite preview"
   },
   "devDependencies": {
